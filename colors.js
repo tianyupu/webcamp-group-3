@@ -4,6 +4,7 @@ const colorNames = [
     "ForestGreen",
     "PeachPuff",
     "RebeccaPurple",
+    "PapayaWhip",
 ];
 
 const radioDiv = document.getElementById("radios");
