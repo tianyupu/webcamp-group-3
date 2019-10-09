@@ -19,6 +19,7 @@ const inputs = colorNames.map(color => {
     el.setAttribute("value", color);
 
     wrapper.append(el);
+    wrapper.insertAdjacentHTML("beforeend", ` ${color}<br>`);
 
     return wrapper;
 });
