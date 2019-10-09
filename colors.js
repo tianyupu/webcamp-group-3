@@ -6,7 +6,8 @@ const colorNames = [
 	'RebeccaPurple',
 	'Fuchsia',
 	'PapayaWhip',
-	'Whitesmoke'
+	'Whitesmoke',
+	'SaddleBrown'
 ];
 
 const radioDiv = document.getElementById('radios');
