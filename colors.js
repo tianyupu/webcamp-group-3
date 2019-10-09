@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 const colorNames = [ 'BlanchedAlmond', 'DarkGoldenRod', 'ForestGreen', 'PeachPuff', 'RebeccaPurple', 'Fuchsia' ];
+=======
+const colorNames = [
+    "BlanchedAlmond",
+    "DarkGoldenRod",
+    "ForestGreen",
+    "PeachPuff",
+    "RebeccaPurple",
+    "PapayaWhip",
+];
+>>>>>>> newColor
 
 const radioDiv = document.getElementById('radios');
 
